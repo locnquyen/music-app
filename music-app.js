@@ -77,7 +77,7 @@ const app = {
         {
             name: 'Không Thể Đến Với Nhau',
             singer: "Huy Vạc",
-            path: "./assets/mucsics/Sap30.mp3",
+            path: "./assets/mucsics/NeuKhongTheDenVoiNhau.mp3",
             image: "./assets/img/khongthedenvoinhau.jpeg"
         },
         {
